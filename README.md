@@ -1,2 +1,2 @@
 # git-practise
-My first repository to practice 
+My first repository to practice
